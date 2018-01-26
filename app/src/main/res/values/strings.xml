@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flash Light Free</string>
+    <string name="settings">Settings</string>
+    <string name="flashlight_state_on">On</string>
+    <string name="flashlight_state_off">Off</string>
+    <string name="flash_light_state">State : </string>
+</resources>
